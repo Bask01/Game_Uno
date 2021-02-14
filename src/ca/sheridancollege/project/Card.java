@@ -1,7 +1,8 @@
 /**
  * SYST 17796 Project Base code.
  * Students can modify and extend to implement their game.
- * Add your name as an author and the date!
+ * Authors : Kubra Bas , Christopher Mansingh , Arshdeep Kaur
+ * Description this is a starter code for game 'UNO'
  */
 package ca.sheridancollege.project;
 
