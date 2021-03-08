@@ -1,8 +1,7 @@
 /**
- * SYST 17796 Project Base code.
- * Students can modify and extend to implement their game.
+ * Adapted from : SYST 17796 Project Base code (Prof. John Dafoe).
  * Authors : Kubra Bas , Christopher Mansingh , Arshdeep Kaur
- * Description this is a starter code for game 'UNO'
+ * game 'UNO'
  */
 package ca.sheridancollege.project;
 
